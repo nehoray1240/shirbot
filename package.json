@@ -1,0 +1,17 @@
+{
+  "name": "mikobot",
+  "version": "1.0.0",
+  "description": "bot for me and shir",
+  "main": "mikoBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node mikoBot.js"
+  },
+  "author": "Nehoray & shir",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "nodemon": "^1.18.3",
+    "steam-api": "^1.1.3"
+  }
+}
